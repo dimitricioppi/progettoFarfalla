@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/NullInputComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/EntityPhysicsComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Bounds/CircleBoundingBox.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Commons/RandomGenerator.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Bounds/RectBoundingBox.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameFactory.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/ButtonPhysicsComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/PlayerInputComponentWithAcc.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameEngine.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/InputComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameObjects/Summoning.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Bounds/BoundingBox.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Commons/V2d.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Events/WorldEvent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/RedBatInputComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Events/HitBorderEvent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/World.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/PickUpObjPhysicsComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/PhysicsComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/SummoningPhysicsComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/PlayerInputComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/AbstractPlayerInputComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Commons/P2d.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Controllers/ImputControllers/InputControllerNotFoundException.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/BoundaryCollision.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Events/HitPickUpEvent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Imputs/KillerInputComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Physics/ButterflyPhysicsComponent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Events/HitBatEvent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/ProgettoFarfalla.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Controllers/ImputControllers/KeyboardInputController.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameObjects/GameObject.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/View/Listeners/ButtonListenerPanel.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameObjects/Entity.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/View/SwingScene.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameObjects/PickUp.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Events/WorldEventListener.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameState.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/World/Events/KillEnemyEvent.java</file>
+            <file>file:/C:/Users/Daniela/Documents/ProgettoFarfalla/src/progettofarfalla/Model/Game/GameObjects/Button.java</file>
+        </group>
+    </open-files>
+</project-private>
